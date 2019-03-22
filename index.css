@@ -5,8 +5,7 @@ td {
     height: 100px;
     background-color: #00fff7;
 }
-#header #Welcome {
+#header #Name {
     text-align: left;
-    text-emphasis: bold;
     font-size: 20px;
 }
