@@ -5,3 +5,8 @@ td {
     height: 100px;
     background-color: #00fff7;
 }
+#header #Welcome {
+    text-align: left;
+    text-emphasis: bold;
+    font-size: 20px;
+}
