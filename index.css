@@ -3,14 +3,10 @@ td {
 }
 #header {
     height: 100px;
-    background-color: #00fff7;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
+    background-color: #9680e8;
 }
 #header #Name {
     text-align: left;
     font-size: 20px;
-    padding-left: 20px;
+    padding-left: 50px;
 }
